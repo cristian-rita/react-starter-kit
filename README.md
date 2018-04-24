@@ -7,7 +7,7 @@ This project is an opinionated boilerplate for developing web applications on to
 1.  Clone this repository
 
 ```bash
-$ git clone
+$ git clone https://github.com/cristian-rita/react-starter-kit
 ```
 
 2.  Install dependencies
