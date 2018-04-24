@@ -13,6 +13,7 @@ $ git clone https://github.com/cristian-rita/react-starter-kit.git
 2.  Install dependencies
 
 ```bash
+$ cd react-starter-kit
 $ yarn
 ```
 
